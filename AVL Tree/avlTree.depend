@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543176623 source:c:\users\hugo\desktop\c++\avltree\treenode.cpp
+	"TreeNode.h"
+	<stddef.h>
+
+1543176611 c:\users\hugo\desktop\c++\avltree\treenode.h
+	<stddef.h>
+
+1543259549 source:c:\users\hugo\desktop\c++\avltree\main.cpp
+	"AVLTree.h"
+	"TreeNode.h"
+	<stddef.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+
+1543266884 c:\users\hugo\desktop\c++\avltree\avltree.h
+	"TreeNode.h"
+	<stddef.h>
+
+1543332161 source:c:\users\hugo\desktop\c++\avltree\avltree.cpp
+	<iostream>
+	"AVLTree.h"
+	"TreeNode.h"
+	<cmath>
+	<stdio.h>
+	<stddef.h>
+	<cstdlib>
+	<ctime>
+

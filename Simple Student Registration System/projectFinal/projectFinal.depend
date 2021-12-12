@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1522963719 source:c:\users\aegean\cs201\projectfinal\course.cpp
+	<iostream>
+	"Course.h"
+
+1522968969 c:\users\aegean\cs201\projectfinal\course.h
+	<string>
+
+1522968561 source:c:\users\aegean\cs201\projectfinal\srs.cpp
+	"SRS.h"
+	<iostream>
+	<iostream>
+	<string>
+	"SRS.h"
+	"SimpleStudent.h"
+	"Course.h"
+
+1522964697 c:\users\aegean\cs201\projectfinal\srs.h
+	<string>
+	"SimpleStudent.h"
+
+1522968446 c:\users\aegean\cs201\projectfinal\simplestudent.h
+	<string>
+	"Course.h"
+	"Course.h"
+	<string>
+
+1522968395 source:c:\users\aegean\cs201\projectfinal\simplestudent.cpp
+	"SimpleStudent.h"
+	<iostream>
+	"SimpleStudent.h"
+	<string>
+
+1522968629 source:c:\users\aegean\cs201\projectfinal\test.cpp
+	<iostream>
+	"SRS.h"
+	"SimpleStudent.h"
+
